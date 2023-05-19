@@ -1,0 +1,86 @@
+<%- include('partials/head.ejs') %>
+<body>
+  <div class="max-w-screen-xl mx-auto px-5 bg-white h-100">
+    <div class="flex flex-col items-center">
+      <h1 class="text-2xl font-medium mb-4">New Recipe</h1>
+      <form action="/recipes/save" method="POST">
+        <div class="mb-4">
+          <label class="block font-medium text-sm mb-2" for="name">Name:</label>
+          <input
+            class="border border-gray-400 p-2 rounded-lg w-full"
+            type="text"
+            name="name"
+            id="name"
+            required
+          />
+        </div>
+        <div class="mb-4">
+          <label class="block font-medium text-sm mb-2" for="ingredients"
+            >Ingredients:</label
+          >
+          <div class="ingredient-group">
+            <div class="mb-2">
+              <input
+                type="text"
+                class="border border-gray-400 p-2 rounded-lg w-1/2 mr-2"
+                placeholder="Ingredient"
+                name="ingredient"
+              />
+              <input
+                type="text"
+                class="border border-gray-400 p-2 rounded-lg w-1/2"
+                placeholder="Quantity"
+                name="quantity"
+              />
+            </div>
+          </div>
+          <button
+            type="button"
+            class="bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg"
+            onclick="addIngredient()"
+          >
+            Add Ingredient
+          </button>
+        </div>
+        <div class="mb-4">
+          <label class="block font-medium text-sm mb-2">Instructions:</label>
+          <div class="instruction-group">
+            <div class="mb-2">
+              <input
+                class="border border-gray-400 p-2 rounded-lg w-full"
+                type="text"
+                name="instruction"
+                required
+              />
+            </div>
+          </div>
+          <button
+            class="bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg"
+            type="button"
+            onclick="addInstruction()"
+          >
+            Add Instruction
+          </button>
+        </div>
+        <div class="text-center">
+          <a
+            class="bg-red-500 hover:bg-red-600 text-white font-medium py-2 px-4 rounded-lg cursor-pointer"
+            type="button"
+            onclick="window.location.href = '/recipes';"
+          >
+            Cancel
+          </a>
+          <button
+            class="bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg"
+            type="submit"
+          >
+            Save
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="/js/index.js"></script>
+  <%- include('partials/foot.ejs') %>
+</body>

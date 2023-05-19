@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "name": "Spicy Sausage Pasta",
+    "ingredient": [
+      {
+        "name": "spicy sausage",
+        "quantity": "12 oz"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 large"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": "1"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves"
+      },
+      {
+        "name": "crushed red pepper flakes",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "dried oregano",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "dried basil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "crushed tomatoes",
+        "quantity": "28 oz can"
+      },
+      {
+        "name": "penne pasta",
+        "quantity": "1 lb"
+      },
+      {
+        "name": "grated parmesan cheese",
+        "quantity": "1 cup"
+      }
+    ],
+    "instruction": [
+      "1. Cook the pasta according to package instructions until al dente. Drain and set aside.",
+      "2. In a large skillet, cook the sausage over medium heat until browned. Drain any excess fat.",
+      "3. Add the onion, bell pepper, and garlic to the skillet and cook until softened, about 5 minutes.",
+      "4. Stir in the red pepper flakes, oregano, basil, salt, and black pepper.",
+      "5. Pour in the crushed tomatoes and bring the mixture to a simmer.",
+      "6. Add the cooked pasta to the skillet and toss to coat with the sauce.",
+      "7. Serve the pasta in bowls and top with grated Parmesan cheese."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lemon Garlic Shrimp",
+    "ingredient": [
+      {
+        "name": "jumbo shrimp",
+        "quantity": "1 lb, peeled and deveined"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "dried oregano",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "dried thyme",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "lemon wedges",
+        "quantity": "for serving"
+      }
+    ],
+    "instruction": [
+      "1. In a large bowl, whisk together the olive oil, lemon juice, garlic, oregano, thyme, salt, and pepper.",
+      "2. Add the shrimp to the bowl and toss to coat in the marinade.",
+      "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours.",
+      "4. Heat a large skillet over medium-high heat. Add the shrimp and marinade to the skillet and cook, stirring occasionally, until the shrimp are pink and cooked through, about 5-6 minutes.",
+      "5. Serve the shrimp with lemon wedges on the side."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lemon Herb Chicken",
+    "ingredient": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4"
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "dried thyme",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "dried oregano",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "dried basil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instruction": [
+      "1. In a small bowl, whisk together the lemon juice, olive oil, thyme, oregano, basil, salt, and pepper.",
+      "2. Place the chicken in a large resealable bag and pour the marinade over it. Seal the bag and toss to coat the chicken.",
+      "3. Marinate the chicken in the refrigerator for at least 30 minutes, or up to 2 hours.",
+      "4. Preheat grill to medium-high heat.",
+      "5. Grill the chicken for 6-8 minutes per side, or until cooked through.",
+      "6. Serve the chicken hot and garnish with additional lemon wedges, if desired."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chickpea Curry",
+    "ingredient": [
+      {
+        "name": "oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 large"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "name": "ground cumin",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "ground coriander",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "ground turmeric",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "ground cinnamon",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "ground black pepper",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "chickpeas",
+        "quantity": "2 cans"
+      },
+      {
+        "name": "tomato puree",
+        "quantity": "1 can"
+      },
+      {
+        "name": "water",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "fresh cilantro",
+        "quantity": "1/4 cup"
+      }
+    ],
+    "instruction": [
+      "1. In a large pot or Dutch oven, heat the oil over medium heat.",
+      "2. Add the onion and cook until softened, about 5 minutes.",
+      "3. Stir in the ginger, garlic, cumin, coriander, turmeric, cinnamon, pepper, and salt.",
+      "4. Cook for 1-2 minutes, or until fragrant.",
+      "5. Add the chickpeas, tomato puree, and water to the pot.",
+      "6. Bring the mixture to a simmer and let cook for 20-25 minutes, or until the sauce has thickened.",
+      "7. Stir in the cilantro and cook for an additional 2-3 minutes.",
+      "8. Serve the curry over rice or with naan bread."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Beef Stroganoff",
+    "ingredient": [
+      {
+        "name": "beef sirloin",
+        "quantity": "1 lb"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "flour",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 large"
+      },
+      {
+        "name": "mushrooms",
+        "quantity": "8 oz"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "name": "beef broth",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "egg noodles",
+        "quantity": "8 oz"
+      },
+      {
+        "name": "fresh parsley",
+        "quantity": "1/4 cup"
+      }
+    ],
+    "instruction": [
+      "1. Cut the beef sirloin into thin strips and season with salt and pepper.",
+      "2. Place the flour in a shallow dish and coat the beef strips in the flour.",
+      "3. In a large skillet, heat the oil over medium-high heat.",
+      "4. Add the beef strips and cook until browned, about 5 minutes.",
+      "5. Remove the beef from the skillet and set aside.",
+      "6. In the same skillet, add the onion, mushrooms, and garlic and cook until softened, about 5 minutes.",
+      "7. Stir in the beef broth and bring the mixture to a simmer.",
+      "8. Add the beef back to the skillet and let cook for an additional 5 minutes.",
+      "9. Stir in the sour cream and cook until heated through.",
+      "10. Cook the egg noodles according to package instructions.",
+      "11. Serve the beef stroganoff over the egg noodles and garnish with fresh parsley."
+    ]
+  },
+  {
+    "id": "12048df8-d292-48db-b18e-954f4093cfe9",
+    "name": "test",
+    "ingredient": [
+      {
+        "name": "test",
+        "quantity": "1"
+      }
+    ],
+    "instruction": [
+      "test"
+    ]
+  },
+  {
+    "id": "3fbb0904-1379-4c89-a925-cb24344a7769",
+    "name": "Karaage",
+    "ingredient": [
+      {
+        "name": "Chicken",
+        "quantity": "300g"
+      },
+      {
+        "name": "Powder",
+        "quantity": "1 Packet"
+      }
+    ],
+    "instruction": [
+      "Just Mix and deep fry",
+      "Eat :)"
+    ]
+  },
+  {
+    "id": "670d0b02-8967-48b4-b04f-8bdaf83e54db",
+    "name": "test",
+    "ingredient": [
+      {
+        "name": "111",
+        "quantity": "111"
+      }
+    ],
+    "instruction": [
+      "111"
+    ]
+  },
+  {
+    "id": "14f7742a-3722-418e-be28-589ced5e7c95",
+    "name": "test",
+    "ingredient": [
+      {
+        "name": "test",
+        "quantity": "2"
+      }
+    ],
+    "instruction": [
+      "hey"
+    ]
+  }
+]
